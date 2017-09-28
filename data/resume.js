@@ -1,108 +1,152 @@
 module.exports = {
-  name: "Kaijun Chen",
-  intro: "I'm Kaijun, i gonna use Markdown here, but it's haven't been implemented yet.",
+  name: "Sindre Moldeklev",
+  intro: "Energisk og lærevillig som liker utfordringer. Ser heller etter løsninger enn problemer i de oppgavene jeg får tildelt. \nEr interessert i systemutvikling, webutvikling og teknologi. Har også en lidenskap for fotografering på hobbybasis. \nHar fullført en bachelor i Informasjonsvitenskap ved Universitet i Bergen og fortsetter fra august 2016 til Masterstudium i Informasjonsvitenskap. \nJobber som web-ansvarlig for Mathopen Idrettslag på siden.",
   contact: [
     {
-      title: "Call",
-      content: "+4917888888888"
+      title: "Telefon",
+      content: "+47 482 71 395"
     },
     {
       title: "Mail",
-      content: "kaijun.cn@gmail.com"
+      content: "sndrem@gmail.com"
     },
     {
-      title: "Web",
-      content: "http://kaijun.rocks",
-      url: "http://kaijun.rocks"
+      title: "LinkedIn",
+      content: "https://www.linkedin.com/in/sindre-moldeklev-a39a975a/",
+      url: "https://www.linkedin.com/in/sindre-moldeklev-a39a975a/"
     },
     {
-      title: "Home",
-      content: "Fritz-Löffler-Straße. 12/A585, 01069, Dresden, Sachsen, Germany",
+      title: "Adresse",
+      content: "Hjelms vei 18a, 5063 Bergen, Norge",
     },
   ],
   social: [
 
     {
       name: "facebook",
-      username: "kaijun",
-      url: "https://www.facebook.com/demonbane.cn"
+      username: "sindre.moldeklev",
+      url: "https://www.facebook.com/sindre.moldeklev"
     },
     {
       name: "twitter",
-      username: "Demonbane_x",
-      url: "https://twitter.com/Demonbane_x"
+      username: "sndrem",
+      url: "https://twitter.com/sndrem"
     },
     {
       name: "instagram",
-      username: "kaijun.cn",
-      url: "https://www.instagram.com/kaijun.cn/"
-    },
-    {
-      name: "weibo",
-      username: "Demonbane",
-      url: "http://weibo.com/1656320160/profile?topnav=1&wvr=6"
-    },
+      username: "sndrem",
+      url: "https://www.instagram.com/sndrem/"
+    }
   ],
   experiences: [
     {
-      company: "Google Inc.",
-      period: "Nov 2016 - Present",
-      title: "Frontend Engineer",
-      desc: "It's a looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooog text!"
+      company: "TV 2 AS",
+      period: "August 2013 - ",
+      title: "Grafikkavvikler",
+      desc: "Ansvarlig for sportsgrafikk for livesendinger på TV 2 for eventer som sommer- og vinter-OL, Premier League, Tippeligaen/Eliteserien, Tour de France, sykkel-VM, mm."
     },
     {
-      company: "TU Dresden",
-      period: "Nov 2013 - Nov 2015",
-      title: "Student Assistance",
-      desc: "I'm proud that i worked as a Student Assistance!"
+      company: "Fagutvalget Infomedia",
+      period: "august 2017 - ",
+      title: "Leder",
+      desc: "Ble valgt som leder i Fagutvalget august 2017, etter ett år som nestleder. Ansvarlig for møteinnkalling, ordstyrer ved møter og direkte kontakt med instituttledelse og studenter."
+    },
+    {
+      company: "Fagutvalget Infomedia",
+      period: "august 2016 - august 2017",
+      title: "Nestleder",
+      desc: "Jobbet som nestleder for Fagutvalget for Informasjonsvitenskap og medievitenskap ved det samfunnsvitenskapelige fakultet ved UIB"
+    },
+    {
+      company: "Universitet i Bergen",
+      period: "august 2015 - juni 2016",
+      title: "Studentassistent",
+      desc: "Tre semester som labassistent for java-programmering og klientprogrammering (javascript, html, css, node.js). Lært nye studenter programmering utenom forelesninger."
+    },
+    {
+      company: "Mathopen Idrettslag",
+      period: "januar 2016 - ",
+      title: "Web-ansvarlig",
+      desc: "Oppdatere nettsider, medlemsregister, sende ut purring på kontingent, skrive nyheter, opprette og holde oversikt over påmelding til arrangementer med mer."
+    },
+    {
+      company: "Sponsorteam",
+      period: "2011 - 2012",
+      title: "Salgsleder",
+      desc: "Hadde ansvar for ti selgere, to ganger i uken. Tok i mot telefoner fra kunder og registrerte salg. Tok også i mot leveringer til lager."
+    },
+    {
+      company: "Sponsorteam",
+      period: "2009 - 2011",
+      title: "Salgskonsulent",
+      desc: "Telefonsalg to til tre kvelder i uken etter skole. Salg for støtte til lokale idrettslag. Månedens selger flere måneder på rad."
+    },
+    {
+      company: "Håndballforbundet, Region Vest",
+      period: "2006 - 2008",
+      title: "Håndballdommer",
+      desc: "Dømte aldersbestemte lag i håndball for region vest i Bergen"
     }
   ],
   projects: [
     {
-      title: "CV-Generator",
-      desc: "An elegant CV/Resume template generator loading from config file. Ideal CV/Resume template for Github Pages.",
-      url: "https://github.com/kaijun/cv-generator/"
+      title: "Faresonen",
+      desc: "Java-program med tilhørende GUI for å redusere antall arbeidstimer for grafikkavvikler ved forberedelser til FotballXtra.",
+      url: "https://github.com/sndrem/faresonen"
     },
     {
-      title: "Example Project",
-      desc: "It's an Example Project. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non tellus sed nisl maximus facilisis ac fringilla tellus. Phasellus tristique magna ac mauris finibus faucibus. Praesent ornare eros non finibus fringilla. Donec eu est sollicitudin, efficitur lacus sodales, ornare ligula. Nam facilisis ultrices posuere. Nam eget sollicitudin dui. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas dui eros, egestas id diam id, consectetur facilisis quam. Phasellus facilisis viverra sem, ut varius enim tincidunt ac.",
-      url: "http://example.com"
+      title: "Foribus - Attendance tracker",
+      desc: "Større node.js-prosjekt for INFO331 Research Topics in Software Engineering",
+      url: "https://github.com/sndrem/AttendanceTracker"
+    },
+    {
+      title: "Opta-løpestats",
+      desc: "Verktøy for å hjelpe grafikkavvikler ved avvikling av Premier League-sendinger. Programmet kan sortere og filtrere ut hvem som har løpt mest og minst ved data levert fra Opta",
+      url: "https://github.com/sndrem/Optaloping"
     }
   ],
   educations: [
     {
-      major: "Network Engineering",
-      degree: "Bachelor",
-      college: "Xidian University",
-      period: "Sep 2008 - Jul 2012",
+      major: "Informasjonsvitenskap",
+      degree: "Master",
+      college: "Universitet i Bergen",
+      period: "august 2016 - Juli 2018",
     },
     {
-      major: "Informatik",
-      degree: "Master",
-      college: "TU Dresden",
-      period: "Oct 2013 - Sep 2016",
+      major: "Informasjonsvitenskap",
+      degree: "Bachelor",
+      college: "Universitet i Bergen",
+      period: "august 2013 - juli 2016",
     }
   ],
   skills:[
     {
       name: "JavaScript",
-      score: 9
+      score: 7
+    },
+    {
+      name: "React",
+      score: 4
     },
     {
       name: "HTML",
-      score: 6
-    },
-    {
-      name: "NodeJS",
-      score: 9
-    },
-    {
-      name: "CSS",
       score: 8
     },
     {
-      name: "Android",
-      score: 2
+      name: "NodeJS",
+      score: 6
     },
+    {
+      name: "CSS (less, sass, vanilla)",
+      score: 8
+    },
+    {
+      name: "Java",
+      score: 6
+    },
+    {
+      name: "Git",
+      score: 7
+    }
   ]
 }
